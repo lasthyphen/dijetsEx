@@ -4,7 +4,7 @@ import "@openzeppelin/contracts/drafts/SignedSafeMath.sol";
 
 /** @title Token Conservation
  *  A library for updating and verifying the tokenConservation contraint for BatchExchange's batch auction
- *  @author @dijetsEx/dfusion-team <https://github.com/orgs/dijetsEx/teams/dfusion-team/members>
+ *  @author @dijetsEx
  */
 library TokenConservation {
     using SignedSafeMath for int256;
