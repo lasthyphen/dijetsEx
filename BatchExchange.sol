@@ -10,8 +10,8 @@ import "./libraries/TokenConservation.sol";
 
 /** @title BatchExchange - A decentralized exchange for any ERC20 token as a multi-token batch
  *  auction with uniform clearing prices.
- *  For more information visit: <https://github.com/dijets/dex-contracts>
- *  @author Saleem Farid DijetsEx
+ *  For more information visit: <https://github.com/lasthyphen/dijetsEx>
+ *  @author Saleem Farid D.A.R.E
  */
 contract BatchExchange is EpochTokenLocker {
     using SafeCast for uint256;
